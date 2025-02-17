@@ -1,5 +1,17 @@
 #!/bin/bash
 
+# todo:
+# - test
+# - register from file
+# - --help: explaining everything and usage completions
+# - import from file
+# install (aur, apt, fedora, script / with extension)
+# readme + how to export shortcuts
+# help finding wm_class / title
+# show run-or-raise shortcuts from dconf (export to file)
+
+
+
 usage() {
     echo "Usage: $0 --mode \"\" --command \"\" --wm_class \"\" --title \"\""
     exit 1
